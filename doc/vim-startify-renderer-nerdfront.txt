@@ -1,0 +1,43 @@
+*vim-startify-renderer-nerdfont.txt* vim-startify plugin to render nerdfont
+
+=============================================================================
+CONTENTS *vim-startify-renderer-nerdfont-contents*
+
+INTRODUCTION |vim-startify-renderer-nerdfont-introduction|
+USAGE |vim-startify-renderer-nerdfont-usage|
+INTERFACE |vim-startify-renderer-nerdfont-interface|
+  VARIABLE |vim-startify-renderer-nerdfont-variable|
+  COLORS |vim-startify-renderer-nerdfont-colors|
+
+
+=============================================================================
+INTRODUCTION *vim-startify-renderer-nerdfont-introduction*
+
+*vim-startify-renderer-nerdfont* is a |vim-startify| plugin which add nerdfont
+support.
+:
+=============================================================================
+USAGE *vim-startify-renderer-nerdfont-usage*
+
+Install https://github.com/lambdalisue/nerdfont.vim
+
+=============================================================================
+INTERFACE *vim-startify-renderer-nerdfont-interface*
+
+-----------------------------------------------------------------------------
+VARIABLE *vim-startify-renderer-nerdfont-variable*
+
+*g:vim-startify#renderer#nerdfont#padding*
+  A |String| which is placed between the symobl and the label. Add more
+  spaces to regulate the position of the label after the symbol.
+
+  Default: " "
+
+-----------------------------------------------------------------------------
+COLORS *vim-startify-renderer-nerdfont-colors*
+
+Use glyph-palette.vim to apply colors on Nerd Fonts.
+https://github.com/lambdalisue/glyph-palette.vim
+
+=============================================================================
+
