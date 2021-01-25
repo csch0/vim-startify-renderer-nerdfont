@@ -1,4 +1,8 @@
-# vim-startify-renderer-nerdfont
+# 🌿 vim-startify-renderer-nerdfont
+
+[![startify renderer](https://img.shields.io/badge/🌿%20startify-plugin-yellowgreen)](https://github.com/mhinz/vim-startify)
+
+vim-startify plugin which add file type icons through lambdalisue/nerdfont.vim.
 
 ## Requirements
 
